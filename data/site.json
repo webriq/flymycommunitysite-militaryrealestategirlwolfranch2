@@ -3,7 +3,7 @@
     {
       "sitename": "Fly My Community",
       "icon": "/img/favicon.png",
-      "logo": "/img/logofly.png",
+      "logo": "https://res.cloudinary.com/fmcapp/image/upload/v1552525105/tha6mv9lqgiwozj5equm.jpg",
       "logoname": "Fly My Community",
       "metadesc": "Trusted By Fine Real Estate Professionals",
       "metauthor": "Fly My Community",
@@ -13,21 +13,21 @@
   ],
   "content": [
     {
-      "email": "realagent@flymycommunity.com",
+      "email": "pulmer@erashields.com",
       "logo": "/img/logofly.png",
-      "linkcont": "032000333555",
-      "videoid": "255662356",
+      "linkcont": "719-220-4302",
+      "videoid": "234045698",
       "sliderbg": "/img/slider_bg.jpg",
       "sliderbg_video": "https://player.vimeo.com/video/250014579?background=1",
-      "slidertext1": "Discover the Beauty",
-      "slidertext2": "Crystal Parks",
+      "slidertext1": "Welcome Home!",
+      "slidertext2": "Wolf Ranch",
       "poplink": "//vimeo.com/250014579"
     }
   ],
   "about": [
     {
-      "abouttext1": "Crystal Park - FMC ",
-      "abouttext2": "Crystal Park is a private gated mountain community within the Pikes Peak region. Located above Colorado Springs and adjacent to Manitou Springs.....",
+      "abouttext1": "Welcome Home!",
+      "abouttext2": "This community has it all! Near shopping, close to USAFA & Peterson AFB, restaurants, and shopping. Community Clubhouse with a pool, several parks, dog park, and summer concerts!",
       "aboutbg": "/img/aboutfly_bg.png"
     }
   ],
